@@ -1,2 +1,0 @@
-./examen.sh: línea 15: error sintáctico cerca del elemento inesperado `else'
-./examen.sh: línea 15: `else'
